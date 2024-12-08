@@ -1,0 +1,10 @@
+print(type("Hello"))
+print(type(7))
+print(type(13.2))
+print(type("13.4"))
+print('''saksham''')
+print("""saksham""")
+print(type(True))
+
+print(4,200)
+print(3.14, "sam", 45)
